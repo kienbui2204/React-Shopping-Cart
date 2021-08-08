@@ -33,19 +33,19 @@
             "availableSizes": ["XL", "XXL"]
         },
         {
-            "_id": "dress4",
-            "title": "Dress 4",
+            "_id": "dress5",
+            "title": "Dress 5",
             "image": "/images/dress4.jpg",
-            "description": "About dress 4",
-            "price": 22,
+            "description": "About dress 5",
+            "price": 23,
             "availableSizes": ["XL", "XXL"]
         },
         {
-            "_id": "dress5",
-            "title": "Dress 5",
+            "_id": "dress6",
+            "title": "Dress 6",
             "image": "/images/dress5.jpg",
-            "description": "About dress 5",
-            "price": 23,
+            "description": "About dress 6",
+            "price": 24,
             "availableSizes": ["XL", "XXL"]
         }
     ]
